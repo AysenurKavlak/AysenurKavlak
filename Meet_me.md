@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AysenurKavlak
+- 📚 I study industrial engineering in Bursa Uludag University and Linnaeus University
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Python
+- 📫 How to reach me aysenurkavlak@outlook.com
